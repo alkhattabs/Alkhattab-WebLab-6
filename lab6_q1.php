@@ -20,7 +20,7 @@
 </head>
 <body>
     <?php
-    // Personal details variables
+   
     $name = "Alkhattab Shehabaddin Abdullah Abdulwadod Al-Dubai";
     $matric = "Ai230209";
     $course = "BIC21203:PEMBANGUNAN WEB";
