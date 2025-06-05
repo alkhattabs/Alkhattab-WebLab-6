@@ -16,14 +16,14 @@
         return $width * $height;
     }
 
-    // Example values
+    
     $width = 6;
     $height = 3;
     
-    // Calculate area
+   
     $area = calculateArea($width, $height);
     
-    // Display result
+   
     echo "The area of a rectangle with a width of {$width} and {$height} is {$area}";
     ?>
 </body>
